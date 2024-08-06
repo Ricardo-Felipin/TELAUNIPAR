@@ -1,0 +1,15 @@
+#titulo1 {
+
+    color: red;
+
+}
+
+#imagem1 {
+
+    display: flex;
+    
+    align-items: center;
+    
+    justify-content: center;
+    
+    }
